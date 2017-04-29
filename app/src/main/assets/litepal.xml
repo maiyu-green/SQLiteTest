@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+
+<!--数据库名字.db-->
+<dbname value = "BookStore"/>
+
+<!--数据库版本，更新时改动版本-->
+<version value = "1"/>
+
+<!--这是自己新建的用于数据库存放表数据类型-->
+<list>
+    <mapping class = "testsdcard.cai.maiyu.mdaima06_01.bean.Book"/>
+</list>
+</litepal>
